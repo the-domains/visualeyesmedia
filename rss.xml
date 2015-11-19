@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[VisualEyesMedia]]></title>
+        <description><![CDATA[VisualEyesMedia]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 19 Nov 2015 22:41:38 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Carter Lane]]></title>
+            <description><![CDATA[<article><h1>Carter Lane</h1><p>A new commercial project that we have been working on.</p><img src="https://static1.squarespace.com/static/559e29aae4b07b95c5430623/t/55a3b7bae4b04267aaf54496/1447941334229/?format=1000w"></article>]]></description>
+            <link>http://www.visual-eyes-media.co.uk/carter-lane/?rq=Carter%20lane</link>
+            <guid isPermaLink="false">bfea58f3-aedd-4402-8eee-07707486234d</guid>
+            <pubDate>Thu, 19 Nov 2015 22:41:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
