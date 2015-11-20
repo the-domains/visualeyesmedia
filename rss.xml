@@ -4,7 +4,7 @@
         <description><![CDATA[VisualEyesMedia]]></description>
         <link>https://thegrid.ai/visualeyesmedia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 Nov 2015 12:24:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Nov 2015 13:19:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/visualeyesmedia/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Projects]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/visualeyesmedia/projects/index.html</link>
             <guid isPermaLink="false">1adba75d-b0ea-41df-83dc-3fafae2caede</guid>
             <pubDate>Fri, 20 Nov 2015 12:24:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tutorial]]></title>
+            <description><![CDATA[<article><h1>Tutorial</h1><p>My current favourite way of setting up V-Ray sampling. The video was recorded in 3ds Max and V-Ray 3.2 for 3ds Max, but is valid for any other V-Ray 3.x integration (i.e. Maya, Modo, Katana etc)</p><img src="https://i.ytimg.com/vi/tKaKvWqTFlw/hqdefault.jpg"></article>]]></description>
+            <link>https://thegrid.ai/visualeyesmedia/tutorial/index.html</link>
+            <guid isPermaLink="false">050b5fa1-179d-420e-aede-ced6fbeb3151</guid>
+            <pubDate>Fri, 20 Nov 2015 13:19:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
