@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'Our philosophy is simple, to add value to our clients projects through the production of high quality CGIs Photo-montages and Animations'
-datePublished: '2015-11-21T17:35:53.209Z'
-dateModified: '2015-11-21T17:12:43.560Z'
+datePublished: '2015-11-21T18:07:38.601Z'
+dateModified: '2015-11-21T18:07:34.588Z'
 author: []
 title: Philosophy
+sourcePath: _posts/2015-11-21-philosophy.md
+published: true
 authors: []
 publisher:
   name: visual-eyes-media.co.uk
   domain: www.visual-eyes-media.co.uk
   url: null
   favicon: null
-sourcePath: _posts/2015-11-21-philosophy.md
-published: true
 url: philosophy/index.html
 _context: 'http://schema.org'
 _type: Article
