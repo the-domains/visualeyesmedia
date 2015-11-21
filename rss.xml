@@ -4,7 +4,7 @@
         <description><![CDATA[VisualEyesMedia]]></description>
         <link>https://thegrid.ai/visualeyesmedia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 Nov 2015 14:03:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Nov 2015 16:57:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/visualeyesmedia/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Projects]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/visualeyesmedia/projects/index.html</link>
             <guid isPermaLink="false">1adba75d-b0ea-41df-83dc-3fafae2caede</guid>
             <pubDate>Fri, 20 Nov 2015 13:25:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[About]]></title>
+            <description><![CDATA[<article><h1>About</h1><p>Visual Eyes Media, a London based architectural visualisation company; producing high quality graphic solutions for all sectors of the architectural and building development community. We produce visual media that presents our client's schemes in the best possible light; adding tangible value to interactive presentations, planning submissions and marketing literature. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3b12992-e562-4f9d-9b92-7b65ba5053c0.jpg"></article>]]></description>
+            <link>https://thegrid.ai/visualeyesmedia/about/index.html</link>
+            <guid isPermaLink="false">3fc57125-4429-47ab-9c88-11ad13556489</guid>
+            <pubDate>Sat, 21 Nov 2015 16:56:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tutorial]]></title>
