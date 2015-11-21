@@ -4,8 +4,15 @@
         <description><![CDATA[VisualEyesMedia]]></description>
         <link>https://thegrid.ai/visualeyesmedia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 Nov 2015 17:04:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Nov 2015 17:05:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/visualeyesmedia/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About]]></title>
+            <description><![CDATA[<article><h1>About</h1><p>Visual Eyes Media, a London based architectural visualisation company; producing high quality graphic solutions for all sectors of the architectural and building development community. We produce visual media that presents our client's schemes in the best possible light; adding tangible value to interactive presentations, planning submissions and marketing literature. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3b12992-e562-4f9d-9b92-7b65ba5053c0.jpg"></article>]]></description>
+            <link>https://thegrid.ai/visualeyesmedia/about/index.html</link>
+            <guid isPermaLink="false">3fc57125-4429-47ab-9c88-11ad13556489</guid>
+            <pubDate>Sat, 21 Nov 2015 17:04:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Projects]]></title>
             <description><![CDATA[<article><h1>Projects</h1><p>These are some of the projects that we have worked on over the last few months</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca00b484-e6d5-4124-bb0f-0dc08130ebed.jpg"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/visualeyesmedia/philosophy/index.html</link>
             <guid isPermaLink="false">80f479d3-efe9-4442-a897-10b771dc5ec5</guid>
             <pubDate>Sat, 21 Nov 2015 17:04:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[About]]></title>
-            <description><![CDATA[<article><h1>About</h1><p>Visual Eyes Media, a London based architectural visualisation company; producing high quality graphic solutions for all sectors of the architectural and building development community. We produce visual media that presents our client's schemes in the best possible light; adding tangible value to interactive presentations, planning submissions and marketing literature. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3b12992-e562-4f9d-9b92-7b65ba5053c0.jpg"></article>]]></description>
-            <link>https://thegrid.ai/visualeyesmedia/about/index.html</link>
-            <guid isPermaLink="false">3fc57125-4429-47ab-9c88-11ad13556489</guid>
-            <pubDate>Sat, 21 Nov 2015 16:56:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tutorial]]></title>
