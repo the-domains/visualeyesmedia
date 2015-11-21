@@ -4,7 +4,7 @@
         <description><![CDATA[VisualEyesMedia]]></description>
         <link>https://thegrid.ai/visualeyesmedia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 Nov 2015 18:00:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Nov 2015 18:03:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/visualeyesmedia/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/visualeyesmedia/services/index.html</link>
             <guid isPermaLink="false">c34ee662-06f6-44b4-8602-8b297d3660ef</guid>
             <pubDate>Sat, 21 Nov 2015 18:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Projects]]></title>
-            <description><![CDATA[<article><h1>Projects</h1><p>These are some of the projects that we have worked on over the last few months</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca00b484-e6d5-4124-bb0f-0dc08130ebed.jpg"></article>]]></description>
-            <link>https://thegrid.ai/visualeyesmedia/projects/index.html</link>
-            <guid isPermaLink="false">1adba75d-b0ea-41df-83dc-3fafae2caede</guid>
-            <pubDate>Sat, 21 Nov 2015 17:53:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Philosophy]]></title>
