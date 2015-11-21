@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Our philosophy is simple, to add value to our clients projects through the production of high quality CGIs Photo-montages and Animations'
-datePublished: '2015-11-21T18:07:38.601Z'
-dateModified: '2015-11-21T18:07:34.588Z'
+datePublished: '2015-11-21T18:18:56.548Z'
+dateModified: '2015-11-21T18:18:52.229Z'
 author: []
 title: Philosophy
 sourcePath: _posts/2015-11-21-philosophy.md
