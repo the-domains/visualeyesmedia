@@ -1,6 +1,6 @@
 name: VisualEyesMedia
 favicon: null
-layout_spectrum: 0.30309
+layout_spectrum: 0.37865
 typography_spectrum: 0.27564
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#7f9200'
     - '#6d6d6d'
     - '#a9a9a9'
-  brandStrength: 0.3125
+  brandStrength: 0.1875
   lightness: 0.3125
   saturation: 0.625
   rhythmicContrast: 0.25
