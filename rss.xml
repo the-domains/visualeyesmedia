@@ -4,7 +4,7 @@
         <description><![CDATA[VisualEyesMedia]]></description>
         <link>https://thegrid.ai/visualeyesmedia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 Nov 2015 18:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2015 10:12:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/visualeyesmedia/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/visualeyesmedia/about/index.html</link>
             <guid isPermaLink="false">3fc57125-4429-47ab-9c88-11ad13556489</guid>
             <pubDate>Sat, 21 Nov 2015 18:04:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tutorial: VRay Mtl]]></title>
+            <description><![CDATA[<article><h1>Tutorial: VRay Mtl</h1><p>VRay Mtl stands for Vray Material and is a very powerful and most used shader in Vray. It can simulate the vast majority of real life materials, from hard metallic surfaces to soft and diffuse ones. Although attributes are generally valid for various applications and versions, this specific tutorial is based on VRay 3.0 for Maya 2015.</p><img src="http://www.visualcenter.ch/wp-content/uploads/2015/06/vray.jpg"></article>]]></description>
+            <link>http://www.visualcenter.ch/vray-mtl/</link>
+            <guid isPermaLink="false">b0a0b0c9-a5b2-4720-85b7-6bfccf3a7822</guid>
+            <pubDate>Mon, 23 Nov 2015 10:11:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Services]]></title>
