@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Stonard Road, London. Private Residence'
-datePublished: '2015-11-24T11:07:53.197Z'
-dateModified: '2015-11-24T11:07:49.496Z'
+datePublished: '2015-11-24T15:39:35.858Z'
+dateModified: '2015-11-24T15:39:32.916Z'
 title: 'Project: Stonard Road, London'
 author: []
 sourcePath: _posts/2015-11-24-project-stonard-road-london.md
