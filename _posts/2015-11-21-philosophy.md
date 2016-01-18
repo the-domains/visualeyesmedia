@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Our philosophy is simple, to add value to our clients projects through the production of high quality CGIs Photo-montages and Animations'
-datePublished: '2015-11-21T18:18:56.548Z'
-dateModified: '2015-11-21T18:18:52.229Z'
+datePublished: '2016-01-18T08:55:39.835Z'
+dateModified: '2016-01-18T08:55:37.201Z'
 author: []
 title: Philosophy
 sourcePath: _posts/2015-11-21-philosophy.md
@@ -24,8 +24,6 @@ _type: Article
 
 ---
 ![Dining area of Ludwig Mies van der Rohe's Farnsworth House](https://the-grid-user-content.s3-us-west-2.amazonaws.com/39b502c3-2b8e-47b2-9580-7b5754202bef.jpg)
-
-# Philosophy
 
 Our philosophy is simple, to add value to our clients projects through the production of high quality CGIs Photo-montages and Animations by engaging in client dialogue, our own experience, evolved workflows and hard work. 
 
