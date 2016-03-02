@@ -6,27 +6,27 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Multiple Student housing projects '
-datePublished: '2016-02-26T15:09:23.556Z'
-dateModified: '2016-02-26T15:09:11.169Z'
+datePublished: '2016-03-02T21:13:01.198Z'
+dateModified: '2016-02-26T15:18:34.695Z'
 title: 'Project: Knightsbridge Housing'
 author: []
+sourcePath: _posts/2016-02-26-project-knightsbridge-housing.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-26-project-knightsbridge-housing.md
-published: true
 url: project-knightsbridge-housing/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e603c1d-ac4f-4c3b-bc79-a4a9af96eb68.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5944112b-4f3e-4d87-b500-e5d647a0486c.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/61620b0b-cbfd-4cc7-9ff8-5eabcb799c99.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7fef136a-f600-454b-a725-0da02b021b8b.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0fc58f4f-b0ba-4998-a2c5-a57665b6161f.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4f89e02-fe03-443c-97c4-04b777ac0c8c.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ed0d1e8-dfdd-4908-b932-6f530b4b457d.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/470132d0-3a3a-470e-8131-bb5630cab33d.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e44328d9af9fe63c038ad1b484a2829d21b01337.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c183dd3c1a02a2893c5e519aa6a8b11837578a67.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/97ad07c5be6a73e334b23bbcb78c837107c90581.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/237d46b3570c8387bf07d0bd937c8ae27b148e7f.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/844838c2ff169e155cb8e74f5fe6580ce6fceba1.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/74c5f3bfc0ade057aa8b1fa598bc0a576aa3f96e.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d5fe21a9e80ca523fd25a786410abf58209b74a1.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7142d9ae5e0e6351aa6182b15b92a7fdcc9d2719.jpg)
