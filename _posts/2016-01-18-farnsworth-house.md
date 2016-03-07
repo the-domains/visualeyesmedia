@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://www.youtube.com/watch?v=FRuqiZSyaeg'
 inLanguage: en
 starred: false
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - welton
   - animation
 description: 'Computer animation of Farnsworth House using Lumion 5.7. Rendered on a NVIDIA GeForce GTX Titan @ 1080p (6secs/frame) Modeled in 3DSMax 2016, edited in Adobe Premier Credit: Pete Guthrie for base model of house and inspiration'
-datePublished: '2016-03-07T14:30:15.033Z'
-dateModified: '2016-03-07T14:29:43.808Z'
+datePublished: '2016-03-07T14:34:58.713Z'
+dateModified: '2016-03-07T14:34:49.330Z'
 author:
   - name: Visual Eyes Media Ltd
     url: 'https://www.youtube.com/channel/UCsXZc4DFLTzv9sn8uECQE_Q'
@@ -44,6 +43,7 @@ publisher:
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+url: farnsworth-house/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
