@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T14:44:56.725Z'
-dateModified: '2016-03-07T14:44:34.353Z'
+datePublished: '2016-03-07T14:57:55.543Z'
+dateModified: '2016-03-07T14:56:46.786Z'
 author:
   - name: Anthony Lester
     url: 'https://www.youtube.com/user/alester229'
@@ -32,3 +32,5 @@ _context: 'http://schema.org'
 
 An animation created using Lumion 5.1 as a test for internal use.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/11f6424c-1542-4034-acef-66f7063ef100.jpg)
+
+Image produced using Vray, the model was then re-used to produce the animation in Lumion
