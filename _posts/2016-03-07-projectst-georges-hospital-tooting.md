@@ -6,36 +6,36 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Images for a generic design proposals for St. Georges Hospital, Tooting'
-datePublished: '2016-03-07T14:55:15.233Z'
-dateModified: '2016-03-07T14:54:55.848Z'
+datePublished: '2016-03-07T14:59:54.151Z'
+dateModified: '2016-03-07T14:59:34.281Z'
 title: 'Project:St. Georges Hospital, Tooting'
 author: []
+sourcePath: _posts/2016-03-07-projectst-georges-hospital-tooting.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-07-projectst-georges-hospital-tooting.md
-published: true
 url: projectst-georges-hospital-tooting/index.html
 _type: Article
 
 ---
-Multiple images produced to show the proposed designs of a hospital fi-out.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/193c7e22-f718-40a5-8c90-bce75a746a7c.jpg)
+Multiple images produced to show the proposed designs of a hospital fit-out.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ea152c9b7ac7da7c9b2c70772e620ea12504ea9e.jpg)
 
 Reception
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/846e9b88-a65f-4e90-8512-3224d064e0e5.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/adc860cc021311b099e1220d7e48c06d8ac51034.jpg)
 
 Multi-bed ward
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bcec2922-3cb9-4620-aca2-dbd8062b366a.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a03ad72d433b3fc0de6759ea5422374ab81a504f.jpg)
 
 Single bed ward
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/454f3247-62e0-4136-a568-d0ed758f9f9d.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6d94833c4950a65fff42d89e3c280ee3569a4c6.jpg)
 
 Reception
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6d2af41-6880-483e-b14a-85f0d775b5a6.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c0448085b9d9104188535d413c70f5f2c0915897.jpg)
 
 Consultation room
 
