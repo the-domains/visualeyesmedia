@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Stonard Road, London. Private Residence'
-datePublished: '2016-03-07T14:09:59.897Z'
-dateModified: '2016-03-07T14:09:37.224Z'
+datePublished: '2016-03-07T14:15:21.155Z'
+dateModified: '2016-03-07T14:15:07.127Z'
 title: 'Project: Stonard Road, London'
 author: []
 sourcePath: _posts/2015-11-24-project-stonard-road-london.md
@@ -23,8 +23,6 @@ _type: Article
 
 ---
 ![Stonard Road, London. Private Residence](https://s3-us-west-2.amazonaws.com/the-grid-img/p/280b0ab7b9c47298d50aada423177ac8283a985a.jpg)
-
-# Project: Stonard Road, London
 
 Two photo-montages produced for [Waind Gohil Architects][0] of a private residential scheme in Enfield, North London.
 ![Stonard Road, London. Private Residence](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fab917a082d00d77e43b26646b4f1956d51eddb5.jpg)
