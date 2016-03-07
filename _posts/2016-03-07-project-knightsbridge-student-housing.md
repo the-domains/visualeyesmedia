@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Several images showing multiple Student housing projects across the UK
-datePublished: '2016-03-07T13:42:47.285Z'
-dateModified: '2016-03-07T13:42:27.479Z'
+datePublished: '2016-03-07T13:47:13.455Z'
+dateModified: '2016-03-07T13:46:56.665Z'
 title: 'Project: Knightsbridge Student Housing'
 author: []
 sourcePath: _posts/2016-03-07-project-knightsbridge-student-housing.md
@@ -28,10 +28,22 @@ _type: Article
 
 A series of 11 photomontages were produced of 7 different sites across the UK for the purposes of marketing for [360 Developments][0]. Specialist photography was sourced, 3D models built for each scene and the models then camera matched and textured.
 ![Southampton](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e2b4db743fb34ecf7e9f87530469a25de20f3b9c.jpg)
+
+Southampton: Austen House
 ![Southampton](https://s3-us-west-2.amazonaws.com/the-grid-img/p/23310d001113d00e674cb53f326549e1756abdad.jpg)
+
+Southampton: Catherine House
 ![Edinburgh](https://s3-us-west-2.amazonaws.com/the-grid-img/p/74b7e453781e9bbe33934f77783914386d87f097.jpg)
+
+Edinburgh
 ![Edinburgh](https://s3-us-west-2.amazonaws.com/the-grid-img/p/92806c81ab4890d0caf194a48401a0b56dbdbb04.jpg)
+
+Edinburgh
 ![Plymouth](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b4948202b9d5b64208b0fb1093edb63f09afea4.jpg)
+
+Plymouth
 ![Plymouth](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ec6c81cb1eacb0cd26dd9156b5634962940ad3f.jpg)
+
+Plymouth
 
 [0]: http://www.threesixtydevelopments.com/
