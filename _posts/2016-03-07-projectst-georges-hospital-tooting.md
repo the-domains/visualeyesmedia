@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Images for a generic design proposals for St. Georges Hospital, Tooting'
-datePublished: '2016-03-07T15:55:50.093Z'
-dateModified: '2016-03-07T15:55:31.990Z'
+datePublished: '2016-03-07T15:59:32.615Z'
+dateModified: '2016-03-07T15:59:14.046Z'
 title: 'Project:St. Georges Hospital, Tooting'
 author: []
 sourcePath: _posts/2016-03-07-projectst-georges-hospital-tooting.md
