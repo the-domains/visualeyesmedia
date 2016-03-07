@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'Multiple Student housing projects '
-datePublished: '2016-03-07T09:54:49.246Z'
-dateModified: '2016-03-07T09:54:07.662Z'
-title: 'Project: Knightsbridge Student Housing'
+description: 'Several images showing multiple Student housing projects across the UK '
+datePublished: '2016-03-07T10:03:05.233Z'
+dateModified: '2016-03-07T10:02:29.960Z'
+title: ' '
 author: []
 sourcePath: _posts/2016-02-26-project-knightsbridge-housing.md
 published: true
@@ -22,8 +22,7 @@ url: project-knightsbridge-housing/index.html
 _type: Article
 
 ---
-# Project: Knightsbridge Student Housing
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/38090f6b-3b9b-4117-9362-b6560a9ba47e.jpg)
+# ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/38090f6b-3b9b-4117-9362-b6560a9ba47e.jpg)
 
 ## Several images showing multiple Student housing projects across the UK
 
