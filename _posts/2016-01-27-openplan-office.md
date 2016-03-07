@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'An animation created in Lumion 5.7.2 showing an open plan office floor. Other software used: 3dsMax 2016 - modelling Adobe Premier - video editing'
-datePublished: '2016-03-07T13:55:27.780Z'
-dateModified: '2016-03-07T13:55:16.860Z'
+datePublished: '2016-03-07T13:56:33.929Z'
+dateModified: '2016-03-07T13:55:35.700Z'
 author:
   - name: Visual Eyes Media Ltd
     url: 'https://www.youtube.com/channel/UCsXZc4DFLTzv9sn8uECQE_Q'
